@@ -25,8 +25,6 @@ Creature Forge is built using the following technologies:
 
 - **Leonardo.ai API:** Integrated to power the AI-generated creativity, leveraging developer friendly API of Leonardo.AI.
 
-## Contact
-
-For inquiries and support, please contact us at [your-email@example.com](mailto:your-email@example.com).
+##
 
 This project is a part of Ales Holman Portfolio
